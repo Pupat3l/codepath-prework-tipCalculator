@@ -1,10 +1,10 @@
-# Pre-work - *Tip Calculator*
+# Pre-work - *Tippy Calc**
 
-**Name of your app** is a tip calculator application for iOS.
+**Tippy Calc** is a tip calculator application for iOS.
 
-Submitted by: **Pujan Patel**
+Submitted by: **Pujan Patele**
 
-Time spent: **1** hours spent in total, **1** hour spent in submission.
+Time spent: **X** hours spent in total
 
 ## User Stories
 
@@ -31,7 +31,8 @@ Here's a walkthrough of implemented user stories:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
-https://i.imgur.com/4al7SQj.gif
+![](https://i.imgur.com/csZOkuP.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
